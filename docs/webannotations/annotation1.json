@@ -1,9 +1,9 @@
 {
       "type": "Annotation",
-      "@context": "http://www.w3.org/ns/anno.jsonld",
-      "label": "The Bees",
+      "@context": "https://dev.isos.dias.ie/static/manifests/RIA_MS_23_P_12.json",
+      "label": "The Book of Ballymoate",
       "body": {
-        "value": "So many bees.",
+        "value": "Gaelic Manuscript.",
         "type": "TextualBody",
         "purpose": "tagging",
         "format": "text/plain"
