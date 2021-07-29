@@ -1,9 +1,9 @@
 {
       "type": "Annotation",
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "label": "The Book of Ballymoate",
+      "label": "The Bees",
       "body": {
-        "value": "Gaelic Manuscript.",
+        "value": "So many bees.",
         "type": "TextualBody",
         "purpose": "tagging",
         "format": "text/plain"
@@ -12,13 +12,13 @@
         "id": "https://d.lib.ncsu.edu/collections/canvas/segIns_023#xywh=318,499,2891,3339",
         "type": "Canvas",
         "dcterms:isPartOf": {
-          "id": "https://dev.isos.dias.ie/manuscript/RIA_MS_23_P_12/seq/365.tif",
+          "id": "https://d.lib.ncsu.edu/collections/catalog/segIns_023/manifest",
           "type": "Manifest",
           "label": "Insectes. [patterns]"
         }
       },
       "motivation": {
-        "id": "https://d.lib.ncsu.edu/collections/catalog/segIns_023/manifest",
+        "id": "http://www.w3.org/ns/oa#tagging",
         "label": "tagging"
       },
       "generator": "/capture-models/generic/describing.json"
