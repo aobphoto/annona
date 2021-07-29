@@ -9,10 +9,10 @@
         "format": "text/plain"
       },
       "target": {
-        "id": "https://iiif.isos.dias.ie/iiif/2/TCD%2FTCD_MS_1337%2F055.tif/1843,2679,1822,1859/full/0/default.jpg?download=true",
+        "id": "https://dev.isos.dias.ie/static/manifests/RIA_MS_23_P_12.json",
         "type": "Canvas",
         "dcterms:isPartOf": {
-          "id": "https://www.isos.dias.ie/manuscript/RIA_MS_23_P_12/seq/365.tif",
+          "id": "https://dev.isos.dias.ie/static/manifests/RIA_MS_23_P_12.json",
           "type": "Manifest",
           "label": "Insectes. [patterns]"
         }
