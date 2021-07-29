@@ -1,6 +1,6 @@
 {
       "type": "Annotation",
-      "@context": "https://dev.isos.dias.ie/static/manifests/RIA_MS_23_P_12.json",
+      "@context": "http://www.w3.org/ns/anno.jsonld",
       "label": "The Book of Ballymoate",
       "body": {
         "value": "Gaelic Manuscript.",
@@ -9,7 +9,7 @@
         "format": "text/plain"
       },
       "target": {
-        "id": "https://iiif.isos.dias.ie/iiif/2/TCD%2FTCD_MS_1337%2F055.tif/1843,2679,1822,1859/full/0/default.jpg",
+        "id": "https://d.lib.ncsu.edu/collections/canvas/segIns_023#xywh=318,499,2891,3339",
         "type": "Canvas",
         "dcterms:isPartOf": {
           "id": "https://dev.isos.dias.ie/manuscript/RIA_MS_23_P_12/seq/365.tif",
@@ -18,7 +18,7 @@
         }
       },
       "motivation": {
-        "id": "http://www.w3.org/ns/oa#tagging",
+        "id": "https://d.lib.ncsu.edu/collections/catalog/segIns_023/manifest",
         "label": "tagging"
       },
       "generator": "/capture-models/generic/describing.json"
