@@ -12,7 +12,7 @@
         "id": "https://d.lib.ncsu.edu/collections/canvas/segIns_023#xywh=318,499,2891,3339",
         "type": "Canvas",
         "dcterms:isPartOf": {
-          "id": "https://d.lib.ncsu.edu/collections/catalog/segIns_023/manifest",
+          "id": "https://dev.isos.dias.ie/static/manifests/RIA_MS_23_P_12.json",
           "type": "Manifest",
           "label": "Insectes. [patterns]"
         }
